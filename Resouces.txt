@@ -1,0 +1,2 @@
+Link with resources on a linux virtural machine on windows and using mavproxy for simulation.
+http://ardupilot.org/dev/docs/license-gplv3.html
